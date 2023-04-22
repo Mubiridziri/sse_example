@@ -1,0 +1,4 @@
+.DS_Store
+app/back/vendor
+app/back/var
+.idea
